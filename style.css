@@ -1,0 +1,36 @@
+
+html {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 2rem; /* 40px */
+}
+
+.principal {
+    font-size: 1.4em; /* 28px assumindo herança de html */
+    color: #333;
+}
+
+.secundario {
+    font-size: 1.4rem; /* 28px */
+    color: #666;
+}
+
+/* Estilos para as cores */
+.cor {
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.original {
+    background-color: rgb(219, 73, 61);
+}
+
+.clara {
+    background-color: rgb(241, 165, 164);
+    color: black;
+}
+
